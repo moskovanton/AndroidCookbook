@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Книга рецептов</string>
+    <string name="title1">Завтраки</string>
+    <string name="title2">Супы</string>
+    <string name="title3">Основные блюда</string>
+    <string name="title4">Салаты</string>
+</resources>

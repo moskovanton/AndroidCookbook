@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/title1"
+            android:id="@+id/id_title1"
+            android:icon="@drawable/breakfast"/>
+        <item android:title="@string/title2"
+            android:id="@+id/id_title2"
+            android:icon="@drawable/soup"/>
+        <item android:title="@string/title3"
+            android:id="@+id/id_title3"
+            android:icon="@drawable/dinner"/>
+        <item android:title="@string/title4"
+            android:id="@+id/id_title4"
+            android:icon="@drawable/salad"/>
+    </group>
+</menu>
